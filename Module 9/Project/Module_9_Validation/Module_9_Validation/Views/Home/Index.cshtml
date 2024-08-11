@@ -1,0 +1,27 @@
+﻿@model SalesListViewModel
+@{
+  ViewData["Title"] = "Home Page";
+
+}
+
+<h1>Quarterly Sales</h1>
+
+<hr class="mt-0"/>
+<table class="table">
+  <tbody>
+    <tr><th>Year</th><th>Quarter</th><th>Employee</th><th>Amount</th></tr>
+    @foreach (Sales sale in Model.Sales)
+    {
+      <tr>
+        <td>@sale.Year</td>
+        <td>@sale.Quarter</td>
+        <td>@sale.Employee.Fullname</td>
+        <td>$@sale.Amount.00</td>
+      </tr>
+    }
+    <tr>
+      <td colspan="3">Total Sales</td>
+      <td class="">$@Model.Sales.Sum(s => s.Amount).00</td>
+    </tr>
+  </tbody>
+</table>

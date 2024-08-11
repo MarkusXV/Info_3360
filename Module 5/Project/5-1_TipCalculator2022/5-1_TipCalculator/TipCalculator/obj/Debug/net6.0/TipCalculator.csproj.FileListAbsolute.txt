@@ -1,0 +1,37 @@
+C:\Users\crand\Desktop\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.csproj.AssemblyReference.cache
+C:\Users\crand\Desktop\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crand\Desktop\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.AssemblyInfoInputs.cache
+C:\Users\crand\Desktop\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.AssemblyInfo.cs
+C:\Users\crand\Desktop\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\crand\Desktop\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\crand\Desktop\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.RazorAssemblyInfo.cache
+C:\Users\crand\Desktop\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.RazorAssemblyInfo.cs
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.csproj.AssemblyReference.cache
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.AssemblyInfoInputs.cache
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.AssemblyInfo.cs
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.RazorAssemblyInfo.cache
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.RazorAssemblyInfo.cs
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\bin\Debug\net6.0\appsettings.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\bin\Debug\net6.0\TipCalculator.staticwebassets.runtime.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\bin\Debug\net6.0\TipCalculator.exe
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\bin\Debug\net6.0\TipCalculator.deps.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\bin\Debug\net6.0\TipCalculator.runtimeconfig.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\bin\Debug\net6.0\TipCalculator.dll
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\bin\Debug\net6.0\TipCalculator.pdb
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\staticwebassets\msbuild.TipCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\staticwebassets\msbuild.build.TipCalculator.props
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TipCalculator.props
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TipCalculator.props
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\scopedcss\bundle\TipCalculator.styles.css
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.dll
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\refint\TipCalculator.dll
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.pdb
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.genruntimeconfig.cache
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 5\Project\5-1_TipCalculator2022\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\ref\TipCalculator.dll

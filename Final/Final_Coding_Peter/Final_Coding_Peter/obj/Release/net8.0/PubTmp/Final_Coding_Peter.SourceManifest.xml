@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Final\Final_Coding_Peter\Final_Coding_Peter\obj\Release\net8.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Final\Final_Coding_Peter\Final_Coding_Peter\obj\Release\net8.0\PubTmp\EFSQLScripts\Final_Coding_Peter.Models.TaskContext.sql" />
+</sitemanifest>

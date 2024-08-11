@@ -1,0 +1,30 @@
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\Project 2-2 TC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\Project 2-2 TC.AssemblyInfoInputs.cache
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\Project 2-2 TC.AssemblyInfo.cs
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\Project 2-2 TC.csproj.CoreCompileInputs.cache
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\Project 2-2 TC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\Project 2-2 TC.RazorAssemblyInfo.cache
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\Project 2-2 TC.RazorAssemblyInfo.cs
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\bin\Debug\net8.0\appsettings.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\bin\Debug\net8.0\Project 2-2 TC.staticwebassets.runtime.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\bin\Debug\net8.0\Project 2-2 TC.exe
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\bin\Debug\net8.0\Project 2-2 TC.deps.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\bin\Debug\net8.0\Project 2-2 TC.runtimeconfig.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\bin\Debug\net8.0\Project 2-2 TC.dll
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\bin\Debug\net8.0\Project 2-2 TC.pdb
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\staticwebassets\msbuild.Project 2-2 TC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\staticwebassets\msbuild.build.Project 2-2 TC.props
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project 2-2 TC.props
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project 2-2 TC.props
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\scopedcss\bundle\Project 2-2 TC.styles.css
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\scopedcss\projectbundle\Project 2-2 TC.bundle.scp.css
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\Project 2-2 TC.dll
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\refint\Project 2-2 TC.dll
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\Project 2-2 TC.pdb
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\Project 2-2 TC.genruntimeconfig.cache
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-2 TC\Project 2-2 TC\obj\Debug\net8.0\ref\Project 2-2 TC.dll

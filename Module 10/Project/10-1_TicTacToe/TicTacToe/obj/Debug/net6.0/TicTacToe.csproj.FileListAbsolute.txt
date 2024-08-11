@@ -1,0 +1,58 @@
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/bin/Debug/net6.0/appsettings.Development.json
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/bin/Debug/net6.0/appsettings.json
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.staticwebassets.runtime.json
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.deps.json
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.runtimeconfig.json
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.dll
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.pdb
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.AssemblyReference.cache
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfo.cs
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.MvcApplicationPartsAssemblyInfo.cache
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.RazorAssemblyInfo.cache
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.RazorAssemblyInfo.cs
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/staticwebassets/msbuild.TicTacToe.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/staticwebassets/msbuild.build.TicTacToe.props
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.TicTacToe.props
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.TicTacToe.props
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/staticwebassets.build.json
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/staticwebassets.development.json
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/scopedcss/bundle/TicTacToe.styles.css
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.dll
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/refint/TicTacToe.dll
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.pdb
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.genruntimeconfig.cache
+/Users/kcrandall/Library/CloudStorage/OneDrive-Personal/Kodey/UVU/INFO 3360/aspnet_core_mvc 2/instructors/student_projects/project_solutions/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/ref/TicTacToe.dll
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/bin/Debug/net6.0/appsettings.Development.json
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/bin/Debug/net6.0/appsettings.json
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.staticwebassets.runtime.json
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.deps.json
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.runtimeconfig.json
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.dll
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.pdb
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.AssemblyReference.cache
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfo.cs
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.MvcApplicationPartsAssemblyInfo.cache
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.RazorAssemblyInfo.cache
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.RazorAssemblyInfo.cs
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/staticwebassets/msbuild.TicTacToe.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/staticwebassets/msbuild.build.TicTacToe.props
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.TicTacToe.props
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.TicTacToe.props
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/staticwebassets.build.json
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/staticwebassets.development.json
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/scopedcss/bundle/TicTacToe.styles.css
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.dll
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/refint/TicTacToe.dll
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.pdb
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.genruntimeconfig.cache
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Debug/net6.0/ref/TicTacToe.dll

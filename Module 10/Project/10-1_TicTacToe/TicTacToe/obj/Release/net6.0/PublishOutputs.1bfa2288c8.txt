@@ -1,0 +1,7 @@
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Release/net6.0/PubTmp/Out/TicTacToe
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Release/net6.0/PubTmp/Out/TicTacToe.dll
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Release/net6.0/PubTmp/Out/TicTacToe.deps.json
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Release/net6.0/PubTmp/Out/TicTacToe.runtimeconfig.json
+/Users/peter/Library/CloudStorage/OneDrive-UtahValleyUniversity/Spring 2024/Web MVC 3360/Module 10/Project/10-1_TicTacToe/TicTacToe/obj/Release/net6.0/PubTmp/Out/TicTacToe.pdb

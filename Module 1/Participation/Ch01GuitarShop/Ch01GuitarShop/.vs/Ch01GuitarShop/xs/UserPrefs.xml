@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6A939D70-4D87-4262-B82E-097F3DBAB867}|Default">
+  <MonoDevelop.Ide.ItemProperties.GuitarShop PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GuitarShop/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="GuitarShop/Controllers/HomeController.cs" Line="15" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ch01GuitarShop" expanded="True">
+            <Node name="GuitarShop" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

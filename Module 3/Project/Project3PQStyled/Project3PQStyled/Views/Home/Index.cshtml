@@ -1,0 +1,47 @@
+﻿@model Project3PQStyled.Models.PriceQuotationModel
+@{
+  ViewBag.Title = "Peter's Price Quotation Calculator"; @* Title for the page *@
+}
+
+<form asp-action="index" method="post">
+  <div class="form-group row mb-2"> @*First row with two margin on bottom*@
+    @* Subtotal line with label and input *@
+    <label class="col-md-3 col-form-label" asp-for="Subtotal">Subtotal: </label> @*First column 3 wide on medium devices and bigger and label*@
+    <div class="col-md-4"> @*Second column 4 wide on medium devices and bigger and label*@
+      <input class="form-control" asp-for="Subtotal" value="@ViewBag.ST.ToString("N2")" />
+    </div>
+    <div class="col-md-5"> @*Third column 5 wide on medium devices and bigger and label*@
+      @Html.ValidationMessageFor(model => model.Subtotal, "", new { @class = "text-danger" })
+    </div>
+  </div>
+  <div class="form-group row mb-2"> @*Second row with two margin on bottom*@
+    @* Discount Percent line with label and input *@
+    <label class="col-md-3 col-form-label" asp-for="DiscountPercent">Discount Percent: </label> @*First column 3 wide on medium devices and bigger and label*@
+    <div class="col-md-4"> @*Second column 4 wide on medium devices and bigger and label*@
+      <input class="form-control" asp-for="DiscountPercent" value="@ViewBag.DP.ToString("N2")" />
+    </div>
+    <div class="col-md-5"> @*Third column 5 wide on medium devices and bigger and label*@
+    @Html.ValidationMessageFor(model => model.DiscountPercent, "", new { @class = "text-danger" })
+    </div>
+    
+  </div>
+  <div class="form-group row mb-2"> @*Third row with two margin on bottom*@
+    @* Discount Amount line with label and value label*@
+    <label class="col-md-3 col-form-label">Discount Amount: </label> @*First column 3 wide on medium devices and bigger and label*@
+    <label class="col-md-8 col-form-label">$@ViewBag.DA.ToString("N2")</label> @*Second column 8 wide on medium devices and bigger and label*@
+  </div>
+  <div class="form-group row"> @*Fourth row with two margin on bottom*@
+    @* Total line with label and value label *@
+    <label class="col-md-3 col-form-label">Total: </label> @*First column 3 wide on medium devices and bigger and label*@
+    <label class="col-md-8 col-form-label">$@ViewBag.TP.ToString("N2")</label> @*Second column 8 wide on medium devices and bigger and label*@
+  </div>
+  <br />
+
+  @* Button that Submits the form back to the server *@
+  <button class="btn btn-success" type="submit">Show</button>
+
+  @* Link that resets the form to zero *@
+  <a class="btn btn-success" asp-action="Index">Clear</a>
+
+
+</form>

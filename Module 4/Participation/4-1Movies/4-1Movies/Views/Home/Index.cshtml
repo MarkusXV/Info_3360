@@ -1,0 +1,33 @@
+﻿@model List<Movie>
+@{
+  ViewData["Title"] = "Peter's Movies List";
+}
+
+<table class="table table-bordered table-striped">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Year</th>
+      <th>Genre</th>
+      <th>Rating</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var movie in Model)
+    {
+      <tr>
+        <td>@movie.Name</td>
+        <td>@movie.Year</td>
+        <td>@movie.Genre.Name</td>
+        <td>@movie.Rating</td>
+        <td>
+          <a asp-controller="Movie" asp-action="Edit" asp-route-id="@movie.MovieId" asp-route-slug="@movie.Slug">Edit</a>
+          <!--Edit link to the Edit page for that movie. Also includes the slug property-->
+          <a asp-controller="Movie" asp-action="Delete" asp-route-id="@movie.MovieId" asp-route-slug="@movie.Slug">Delete</a>
+          <!--Delete link to the Delete page for that movie. Also includes the slug property-->
+        </td>
+      </tr>
+    }
+  </tbody>
+</table>

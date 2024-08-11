@@ -1,0 +1,32 @@
+﻿@model Project_2_1_Price_Quotation.Models.PriceQuotationModel
+@{
+  ViewBag.Title = "Peter's Price Quotation Calculator";
+}
+
+<h1>Peter's Price Quotation Calculator</h1> @* Title for the page *@
+<form asp-action="Index" method="post">
+  <div>
+    @* Subtotal line with label and input *@
+    <label asp-for="Subtotal">Subtotal: </label>
+    <input asp-for="Subtotal" value="@ViewBag.ST.ToString("N2")" />
+  </div>
+  <div>
+    @* Discount Percent line with label and input *@
+    <label asp-for="DiscountPercent">Discount Percent: </label>
+    <input asp-for="DiscountPercent" value="@ViewBag.DP.ToString("N2")" />
+  </div>
+  <div>
+    @* Discount Amount line with label and value label*@
+    <label>Discount Amount: </label>
+    <label>$@ViewBag.DA.ToString("N2")</label>
+  </div>
+  <div>
+    @* Total line with label and value label *@
+    <label>Total: </label>
+    <label>$@ViewBag.TP.ToString("N2")</label>
+  </div>
+  @* Button that Submits the form back to the server *@
+  <button type="submit">Calculate</button>
+  @* Link that resets the form to zero *@
+  <a asp-action="Index">Clear</a>
+</form>

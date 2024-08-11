@@ -1,0 +1,30 @@
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\bin\Debug\net8.0\appsettings.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\bin\Debug\net8.0\Project 2-1 PQ.staticwebassets.runtime.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\bin\Debug\net8.0\Project 2-1 PQ.exe
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\bin\Debug\net8.0\Project 2-1 PQ.deps.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\bin\Debug\net8.0\Project 2-1 PQ.runtimeconfig.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\bin\Debug\net8.0\Project 2-1 PQ.dll
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\bin\Debug\net8.0\Project 2-1 PQ.pdb
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\Project 2-1 PQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\Project 2-1 PQ.AssemblyInfoInputs.cache
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\Project 2-1 PQ.AssemblyInfo.cs
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\Project 2-1 PQ.csproj.CoreCompileInputs.cache
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\Project 2-1 PQ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\Project 2-1 PQ.RazorAssemblyInfo.cache
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\Project 2-1 PQ.RazorAssemblyInfo.cs
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\staticwebassets\msbuild.Project 2-1 PQ.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\staticwebassets\msbuild.build.Project 2-1 PQ.props
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project 2-1 PQ.props
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project 2-1 PQ.props
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\scopedcss\bundle\Project 2-1 PQ.styles.css
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\scopedcss\projectbundle\Project 2-1 PQ.bundle.scp.css
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\Project 2-1 PQ.dll
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\refint\Project 2-1 PQ.dll
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\Project 2-1 PQ.pdb
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\Project 2-1 PQ.genruntimeconfig.cache
+C:\Users\MarkusXV\OneDrive - Utah Valley University\Spring 2024\Web MVC 3360\Module 2\Project\Project 2-1 PQ\Project 2-1 Price Quotation\obj\Debug\net8.0\ref\Project 2-1 PQ.dll

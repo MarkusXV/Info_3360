@@ -1,0 +1,32 @@
+﻿@model Project_2_2_TC.Models.TipCalculatorModel
+@{
+  ViewBag.Title = "Peter's Tip Calculator";
+}
+
+<h1>Peter's Tip Calculator</h1> @* Title for the page *@
+<form asp-action="Index" method="post">
+  <div>
+    @* Subtotal line with label and input *@
+    <label asp-for="Cost">Cost of meal: </label>
+    <input asp-for="Cost" value="@ViewBag.cost.ToString("N2")"/>
+  </div>
+  <div>
+    @* Discount Percent line with label and input *@
+    <label asp-for="firsttip">15% Tip: </label>
+    <label>$@ViewBag.firsttip.ToString("N2")</label>
+  </div>
+  <div>
+    @* Discount Percent line with label and input *@
+    <label asp-for="secondtip">20% Tip: </label>
+    <label>$@ViewBag.secondtip.ToString("N2")</label>
+  </div>
+  <div>
+    @* Discount Percent line with label and input *@
+    <label asp-for="thirdtip">25% Tip: </label>
+    <label>$@ViewBag.thirdtip.ToString("N2")</label>
+  </div>
+  @* Button that Submits the form back to the server *@
+  <button type="submit">Calculate</button>
+  @* Link that resets the form to zero *@
+  <a asp-action="Index">Clear</a>
+</form>

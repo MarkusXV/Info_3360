@@ -1,0 +1,28 @@
+﻿@using Final_Coding_Peter.Models
+@model TaskListViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Task List <i class="fa-solid fa-list-ul"></i></h1>
+
+<hr class="mt-0" />
+<table class="table">
+  <tbody>
+    <tr><th>Title</th><th>Description</th><th>DueDate</th><th>Status</th><th>Worker Assigned</th></tr>
+    @foreach (Final_Coding_Peter.Models.Task task in Model.Tasks)
+    {
+      <tr>
+        <td>@task.Title</td>
+        <td>@task.Description</td>
+        <td>@task.DueDate</td>
+        <td>@task.Status</td>
+        <td>@task.WorkerName</td>
+      </tr>
+    }
+  </tbody>
+      
+</table>
+<div class="alert alert-primary" role="alert">
+  <p class="mb-0">Total Tasks <span class="badge bg-secondary">@Model.Tasks.Count</span></p>
+</div>

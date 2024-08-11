@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAyDx7/Aafw06LmjdKEDBXUAAAAAACAAAAAAAQZgAAAAEAACAAAAA9LDX5Cz/1JGWIJqau6kY51+l8DpQNXmZZ8J83o/CZkQAAAAAOgAAAAAIAACAAAAD05Qq906UMm08qsIcPxkBl1WPIG5j3aGYXd7aYnU+tR4AAAAD+MRWqgONuMyKif2s7mBPft9GX3DtIuwnJpe+Jegbf4vn22QkajngFXBdgUn7UG01BvwX15G6+CLG/BP65PQ2kesjhvMobIUi0G6XVnx92ilhdcJCBaJJJ+dP13AbQlHlzcRWi02fdkHHkz/U7r1br/3u8fyMGZBfv6F0TdZEue0AAAADyZgCpq9TXndefgji+iMqfgowOcHzK70ISz9AFD4eOJXjIiGxbdgGUfnqdgXLmbsKfCzOSvYGJ1T12ygdW0f+P</EncryptedPassword>
+    <History>True|2024-04-28T22:16:35.9351048Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="TaskContext">
+      <Value>Data Source=finalpeterdbserver.database.windows.net,1433%3bInitial Catalog=TaskDb%3bUser ID=MarkusXV%3bPassword=Jetspeed5000%25%25%25%25</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Final_Coding_Peter.Models.TaskContext">
+      <Value>Data Source=finalpeterdbserver.database.windows.net,1433%3bInitial Catalog=TaskDb%3bUser ID=MarkusXV%3bPassword=Jetspeed5000%25%25%25%25</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
